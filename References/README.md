@@ -18,6 +18,8 @@ Vortex methods for flow simulation
 Vortex breakdown: a review
 - https://doi.org/10.1016/S0360-1285(00)00022-8
 
+Vorticity and incompresible flow 
+
 An objective definition of a vortex
 - https://doi.org/10.1017/S0022112004002526
 
